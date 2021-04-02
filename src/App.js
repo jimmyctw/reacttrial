@@ -8,6 +8,7 @@ function App() {
         <h1>React Trial</h1>
         <img src={introImg} className="App-logo" alt="logo" />
         <span>Practice Purpose</span>
+        <span>Contac me</span>
 
       </header>
     </div>
